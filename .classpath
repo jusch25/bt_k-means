@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Uni/S7/Bachelorarbeit/Workspace/lib/jxl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Uni/S7/Bachelorarbeit/Workspace/lib/jexcelapi_docs/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Uni/S7/Bachelorarbeit/Workspace/lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Uni/S7/Bachelorarbeit/Workspace/lib/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
